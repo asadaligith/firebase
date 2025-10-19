@@ -17,7 +17,7 @@ body {
 }
 
 /* Form container */
-form {
+#form {
   background: #ffffff;
   padding: 30px 40px;
   border-radius: 15px;
@@ -64,7 +64,7 @@ button:hover {
 
 /* Responsive Design */
 @media (max-width: 600px) {
-  form {
+  #form {
     padding: 25px;
     width: 100%;
   }
